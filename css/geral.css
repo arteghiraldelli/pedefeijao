@@ -1,3 +1,11 @@
+.destaque {
+  font-family: 'Dancing Script', cursive;
+}
+
+.intro {
+  font-family: Tahoma, Geneva, sans-serif
+}
+
 .left, .right {
    width:5%;
    float: left;
